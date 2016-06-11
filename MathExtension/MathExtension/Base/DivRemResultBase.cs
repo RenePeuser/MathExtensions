@@ -1,6 +1,4 @@
-﻿using System.Windows;
-
-namespace MathExtension.Base
+﻿namespace MathExtension.Base
 {
     public abstract class DivRemResultBase<T>
     {

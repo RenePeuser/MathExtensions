@@ -5,7 +5,7 @@ namespace MathExtensionApp
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var result = 1.Add(9).Subtract(8).Multiply(5).Divide(10);
             Console.WriteLine(result);
