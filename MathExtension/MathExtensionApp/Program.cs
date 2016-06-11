@@ -1,5 +1,5 @@
 ﻿using System;
-using MathExtension;
+using MathExtension.Extensions;
 
 namespace MathExtensionApp
 {
